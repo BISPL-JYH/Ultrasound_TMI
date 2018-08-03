@@ -4,7 +4,7 @@ Ultrasound Image reconstruction
 Data
 ===============
 * Training_data  :   'DNN4x1_TrVal.mat' 
-  *In 'data' folder
+  * In 'data' folder
 * Test_data :  'DNN4x1_TestVal.mat'
   *In 'cnn_sparse_view_init_multi_normal_dsr2_input64' in 'data' folder.
   
