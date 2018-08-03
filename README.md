@@ -27,6 +27,6 @@ To perform a test using proposed algorithm
 
 -> Run 'MAIN_RECONSTRUCTION.m
 
--> You can get the reconstructed RF data in the 'data\cnn_sparse_view_init_multi_normal_dsr2_input64' directory.
+-> You will get the reconstructed RF data in the 'data\cnn_sparse_view_init_multi_normal_dsr2_input64' directory.
 
--> Using standard delay-and-sum (DAS) beam-forming code ('http://www.ultrasoundtoolbox.com/') construct a B-mode image.
+-> Using standard delay-and-sum (DAS) beam-forming code construct a B-mode image. For our experiments we used a DAS beam-forming code provided by (Alpinion Co., Korea). A similar code can be downloaded from ('http://www.ultrasoundtoolbox.com/').
