@@ -16,7 +16,7 @@ Trained network
 
 Training/Test data
 ===============
-* Test data file is placed in 'data\cnn_sparse_view_init_multi_normal_dsr2_input64' folders, respectively.
+* Test data file is placed in 'data\cnn_sparse_view_init_multi_normal_dsr2_input64' folder.
 * The dimension of data are as follows
   -- Test_data      =  64x384x1x2304  (channel x scanline x frame x depth)
                         
