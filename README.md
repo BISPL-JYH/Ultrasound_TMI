@@ -23,6 +23,9 @@ Training/Test data
                         
 To perform a test using proposed algorithm
 -> Use 'DNN4x1_TestVal' as input data
+
 -> Run 'MAIN_RECONSTRUCTION.m
+
 -> You can get the reconstructed RF data in the 'data\cnn_sparse_view_init_multi_normal_dsr2_input64' directory.
+
 -> Using standard delay-and-sum (DAS) beam-forming code ('http://www.ultrasoundtoolbox.com/') construct a B-mode image.
