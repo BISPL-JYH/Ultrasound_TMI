@@ -14,7 +14,7 @@ Trained network
 ===============
 * Trained network for 'SC2xRX4 (down-sampling) CNN' is uploaded.
 
-Training/Test data
+Test data
 ===============
 * Test data file is placed in 'data\cnn_sparse_view_init_multi_normal_dsr2_input64' folder.
 * The dimension of data are as follows
