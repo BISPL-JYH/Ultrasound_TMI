@@ -26,3 +26,8 @@ Implementation
 -> Beamforming
 
 -> You can get the image
+
+Network
+===============
+* Trained Network is uploaded in 'cnn_sparse_view_init_multi_normal_dsr2_input64' in 'data' folder.
+ * Network model for 190, 200, 210, 220, 230, 240 epochs
