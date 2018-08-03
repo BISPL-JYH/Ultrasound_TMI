@@ -9,11 +9,11 @@ Data
   * In 'cnn_sparse_view_init_multi_normal_dsr2_input64' in 'data' folder.
   
        
-the dimension of data : 
+Dimension of data : 
 
-  * training_data =  64x384x1x22731  (channelx scanline x frame x depth)
+  * Training_data   =  64x384x1x22731  (channelx scanline x frame x depth)
   
-  * test_data =   64x384x1x2304 (channel x scanline x frame x depth)
+  * Test_data   =   64x384x1x2304 (channel x scanline x frame x depth)
                         
 Implementation
 ===============
@@ -22,7 +22,6 @@ Implementation
 -> Use 'DNN4x1_TestValat' as input data
 
 -> You can get the reconstructed RF data
-
 
 -> Beamforming
 
