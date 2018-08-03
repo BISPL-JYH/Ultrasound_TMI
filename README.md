@@ -16,7 +16,7 @@ the dimension of data :
 Implementation
 ===============
 -> Open 'MAIN_RECONSTRUCTION.m
--> Use 'DNN4x1_TestValat' as input data
--> You can get the reconstructed RF data
--> Beamforming
--> You can get the image
+* -> Use 'DNN4x1_TestValat' as input data
+* -> You can get the reconstructed RF data
+* -> Beamforming
+* -> You can get the image
