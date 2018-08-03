@@ -33,4 +33,4 @@ To perform a test using proposed algorithm
 
 NOTE
 ========
--- Total file size was higher than 100 MB. So the data is divided into 6 segments of 100 MB or less. Please use 7-zip (https://www.7-zip.org/) file extactor to extact complete code with training and test data.
+-- Total file size was higher than 25 MB. So the data is divided into 52 segments of size 10 MB. Please use 7-zip (https://www.7-zip.org/) file extactor to extact complete code with training and test data.
