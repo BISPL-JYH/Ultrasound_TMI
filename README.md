@@ -22,6 +22,7 @@ Training/Test data
   -- Test_data      =  64x384x1x2304  (channel x scanline x frame x depth)
                         
 To perform a test using proposed algorithm
+
 -> Use 'DNN4x1_TestVal' as input data
 
 -> Run 'MAIN_RECONSTRUCTION.m
