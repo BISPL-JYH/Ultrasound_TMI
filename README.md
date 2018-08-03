@@ -4,6 +4,7 @@ Ultrasound Image reconstruction
 Data
 ===============
 training_data  : 
+---------
   'DNN4x1_TrVal.mat' in 'data' folder
 test_data :  
   'DNN4x1_TestVal.mat'
