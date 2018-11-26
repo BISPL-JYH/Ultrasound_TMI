@@ -1,7 +1,6 @@
 Paper
 ===============
-* Efficient B-mode Ultrasound Image Reconstruction from Sub-sampled RF Data using Deep Learning
-  * In revision process (2018): [https://arxiv.org/abs/1712.06096]
+* Yoon, Yeo Hun, Shujaat Khan, Jaeyoung Huh, and Jong Chul Ye. "Efficient B-mode Ultrasound Image Reconstruction from Sub-sampled RF Data using Deep Learning." IEEE transactions on medical imaging (2018).
 
 Implementation
 ===============
